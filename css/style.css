@@ -1,0 +1,59 @@
+body
+{
+background-color: #fdf6e3
+}
+body>header
+{
+  font-size: 2em
+}
+#logo
+{
+  border: 2px solid #d04b16
+}
+body>header>nav>ul,
+{
+  font-family: sans-serif
+}
+.wrapper
+{
+  background-color: #eee8d5
+}
+#contents,#favs,#facts,#types
+{
+  color: #93a1a1
+}
+a:link
+{
+  background-color: #2694d8
+}
+.wrapper>.dfn
+{
+background-color: #b58900
+}
+body>header>nav>ul>li>mark
+{
+  background-color: #2694d8;
+}
+a[rel=external] 
+{
+    background-color: #2694d8;
+}
+ol>li:first-child 
+{
+    background: #719e47;
+}
+ol>li:last-child
+{
+ background: #2aa198;
+}
+.types>:nth-child(even) {
+    background: #586e75;
+}
+.types>:nth-child(odd) 
+{
+    background: #657ba3;
+}
+.types>:nth-child(3n+1)
+ {
+ background: #d04b16;
+  }
